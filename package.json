@@ -1,0 +1,25 @@
+{
+  "name": "first-express",
+  "version": "1.0.0",
+  "description": "Jim Clark's lessons on web development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gambogisebastian/first-express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "SebsG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gambogisebastian/first-express/issues"
+  },
+  "homepage": "https://github.com/gambogisebastian/first-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

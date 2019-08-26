@@ -1,0 +1,1 @@
+Es un ejercicio para arrollar en mi cabeza un nuevo trayecto neuronal
